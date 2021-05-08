@@ -3,6 +3,9 @@ Applied Machine Learning Project
 
 Project Title: Predicting Financial Distress, using Regression models and a Stacking approach
 
+In this project, we attempt to create a Regression model to predict when a company is in financial distress. Being able to predict companies close to financial distress will help investors make decisions to protect themselves, or invest more and help these companies prevent bankruptcy in advance because the collective number of failing companies can be regarded as an important indicator of the financial health and robustness of a country’s economy.
+
+
 Kaggle Dataset Source: https://www.kaggle.com/shebrahimi/financial-distress/code
 
 Team 8 Members: Sumanth, Sharath, Navneeth, Bentic 
