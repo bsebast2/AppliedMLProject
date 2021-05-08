@@ -12,7 +12,6 @@ Kaggle Dataset Source: https://www.kaggle.com/shebrahimi/financial-distress/code
 
 Financial Distress dataset:https://github.com/bsebast2/AppliedMLProject/blob/main/Financial%20Distress.csv
 
-
 Link to our Python Notebook:
 https://github.com/bsebast2/AppliedMLProject/blob/main/Applied_ML_edited_v2%20(2).ipynb
 
@@ -20,6 +19,6 @@ Link to our Final Report: https://github.com/bsebast2/AppliedMLProject/blob/main
 
 Instructions to run Streamlit : 
 
-Use three files : predictive_model.py, function.py, FinancialDistress.csv
+  Use three files : predictive_model.py, function.py, FinancialDistress.csv
 
-Code: "streamlit run predictive_model.py"
+  Code: "streamlit run predictive_model.py"
