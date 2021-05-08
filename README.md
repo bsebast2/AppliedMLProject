@@ -8,6 +8,8 @@ In this project, we attempt to create a Regression model to predict when a compa
 
 Kaggle Dataset Source: https://www.kaggle.com/shebrahimi/financial-distress/code
 
+Financial Distress dataset:https://github.com/bsebast2/AppliedMLProject/blob/main/Financial%20Distress.csv
+
 Team 8 Members: Sumanth, Sharath, Navneeth, Bentic 
 
 Link to our Python Notebook:
