@@ -12,3 +12,9 @@ Team 8 Members: Sumanth, Sharath, Navneeth, Bentic
 
 Link to our Python Notebook:
 https://github.com/bsebast2/AppliedMLProject/blob/main/Applied_ML_edited_v2%20(2).ipynb
+
+Link to our Final Report: https://github.com/bsebast2/AppliedMLProject/blob/main/AML%20Final%20Report.pdf
+
+Instructions to run Streamlit : 
+
+streamlit run predictive_model.py
